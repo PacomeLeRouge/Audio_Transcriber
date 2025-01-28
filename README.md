@@ -67,6 +67,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This software uses the following open source packages:
 - [Electron](https://github.com/electron/electron) - MIT License
 - [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - MIT License
-- [OpenAI Node API](https://github.com/openai/openai-node) - Apche 2.0 License
+- [OpenAI Node API](https://github.com/openai/openai-node) - Apache 2.0 License
 
 The transcription feature uses the OpenAI Whisper API, which requires a valid API key and is subject to OpenAI's terms of service.
