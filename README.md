@@ -12,6 +12,8 @@ An Electron-based desktop application for transcribing audio files using OpenAI'
 - Export transcriptions to text files
 - Copy to clipboard functionality
 
+![alt text](image.png)
+
 ## Prerequisites
 
 - Node.js and npm
