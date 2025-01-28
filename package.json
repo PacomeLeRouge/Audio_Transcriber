@@ -1,0 +1,32 @@
+{
+  "name": "audio-transcriber",
+  "version": "1.0.0",
+  "description": "Audio transcription application with MPEG-4 support",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "electron",
+    "audio",
+    "transcription",
+    "whisper",
+    "openai",
+    "ffmpeg"
+  ],
+  "bugs": {
+    "url": "https://github.com/PacomeLeRouge/audio-transcriber/issues"
+  },
+  "homepage": "https://github.com/PacomeLeRouge/audio-transcriber#readme",
+  "dependencies": {
+    "electron": "^28.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "openai": "^4.24.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "electron-builder": "^24.9.1"
+  }
+}
